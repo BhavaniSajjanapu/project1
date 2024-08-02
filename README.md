@@ -1,2 +1,4 @@
 # Django-Text-to-HTML-Generator
-A simple project to showcase how to convert plain text to html using python django
+This project is to translate the text to a html page.It would be amazing that you can write an HTML code without actually writing it.Text to HTMLconversion are helpful so that HTML web pages can be easily uploaded to the Internet.HTML declares the different elements on a webpage such as paragraphs,buttons,textboxes,images,links etc.
+A Text file contains plain text in the form of lines. If you want to view or display the Text in a web browser then a smart solution is to change Text to HTML page using Python and django.For this project we require Http.HTTP is a request-response protocol that works in a client-server computing model.
+HTTP Request -> URL -> View -> Model and Template -> HTTP Response . Here we use Django templates which presents the data as HTML with optional CSS.
